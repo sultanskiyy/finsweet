@@ -1,0 +1,64 @@
+#resume{
+    margin-left: 40px;
+    margin-bottom: 90px;
+}
+.resume-title{
+    margin-bottom: 12px;
+    font-size: 26px;
+}
+.resume-subtitle{
+    margin-left: 18px;
+    font: 20px;
+    color: rgb(51, 51, 51);
+    margin-bottom: 16px;
+}
+.resume-i{
+    margin-left: 18px;
+    font-size: 14px;
+    display: flex;
+    margin-top: 14px;
+    line-height: 148%;
+    color: rgb(51, 51, 51);
+}
+.subtitle-1{
+    margin-top: 15px;
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    margin-left: 26px;
+}
+.subtitle-2{
+    margin-top: 15px;
+    color:rgb(51, 51, 51);
+    font-size: 14px;
+    margin-left: 26px;
+    margin-bottom: 30px;
+}
+.subtitle-3{
+    margin-top: 14px;
+    margin-left: 18px;
+    font: 20px;
+    color: rgb(51, 51, 51);
+    margin-bottom: 16px;
+}
+strong{
+    margin-left: 40px;
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+.subtitle-4{
+    margin-top: 15px;
+    color:rgb(51, 51, 51);
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.resume-cont{
+    display: flex;
+}
+.vertical-line{
+    width: 2px;
+    height: 550px;
+    background-color: dodgerblue;
+    margin-left: 60px;
+    margin-right: 60px;
+}

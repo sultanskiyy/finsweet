@@ -1,0 +1,68 @@
+#about{
+    margin-left: 40px;
+}
+.about-title{
+    margin-top: 70px;
+    margin-bottom: 12px;
+    font-size: 26px;
+}
+.line{
+    width: 42px;
+    border: 1.5px solid rgb(38, 100, 255);
+    margin-bottom: 20px;
+}
+.about-subtitle{
+    font-size: 16px;
+    line-height: 134%;
+    margin-bottom: 40px;
+}
+.container{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+.about-cont{
+    
+    gap: 40px;
+}
+.div-title{
+    font-size: 24px;
+    margin-bottom: 80px;
+}
+.cont-about ul li{
+    display: flex;
+    gap: 12px;
+    line-height: 60px;
+}
+.cont-about ul li a{
+    color: black;
+}
+.cont-about ul li h5{
+    font-size: 18px;
+}
+.cont-cards{
+    display: flex;
+    gap: 160px;
+    margin-bottom: 56px;
+}
+.about-photo{
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+.about-photo h2{
+    font-size: 36px;
+    padding-top: 2px;
+}
+.title-1{
+    padding-top: 5px;
+    padding-left: 54px;
+    color: gray;
+}
+.cards-1{
+    display: flex;
+    gap: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 120px;
+}

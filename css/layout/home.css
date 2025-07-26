@@ -1,0 +1,27 @@
+#home{
+    height: 743px;
+    background-image: url(../../assets/images/ai-person.webp);
+}
+.home-title{
+    padding-left: 30px;
+    padding-top: 340px;
+    font-size: 58px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(230, 238, 15, 0.821);
+}
+.home-subtitle {
+    padding-left: 30px;
+    font-size: 22px;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid black;
+    width: fit-content;
+    text-shadow: 2px 2px 4px rgba(230, 238, 15, 0.821);
+    animation: blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes blink-caret {
+    0%, 100% { border-color: transparent; }
+    50% { border-color: black; }
+  }
