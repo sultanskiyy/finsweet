@@ -1,0 +1,62 @@
+#contact{
+    margin-bottom: 90px;
+    margin-left: 40px;
+}
+.contact-cont{
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-bottom: 48px;
+}
+.contact-cont a{
+    color: black;
+}
+.linkeded{
+    display: flex;
+    margin-bottom: 90px;
+}
+.con-container{
+    display: flex;
+    flex-direction: column;
+}
+.register{
+    margin-top: -610px;
+    margin-left: 540px;
+}
+.input-1{
+    margin-right: 20px;
+    width: 260px;
+    height: 40px;
+    margin-bottom: 58px;
+    padding-left: 20px;
+}
+.input-2{
+    height: 40px;
+    padding-left: 20px;
+    width: 546px;
+    margin-bottom: 58px;
+}
+.input-3{
+    padding-bottom: 200px;
+    padding-left: 20px;
+    width: 546px;
+    margin-bottom: 20px;
+    height: 260px;
+}
+.submit{
+    display: flex;
+    margin-left: 200px;
+    height: 40px;
+    color: steelblue;
+    border: 2px solid steelblue;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: #5FB3F6;
+    color: white;
+    border: none;
+}
